@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/bash\n\ncd \"~\/Documents\/Faculty Work\/teaching\/Dordt Classes\/Calculus I\/Math 152 - Spring 2021\/notes\/\"\n# xsltproc -stringparam publisher pub.xml ~\/Documents\/GitHub\/mathbook\/xsl\/pretext-html.xsl ~\/Documents\/Faculty\\ Work\/teaching\/Dordt\\ Classes\/Explorations\\ in\\ Modern\\ Mathematics\/Math\\ 149\\ -\\ Spring\\ 2021\/EMM.ptx\nxsltproc -xinclude -stringparam html.css.colorfile colors_pastel_blue_orange.css \"Documents\/Faculty Work\/teaching\/Dordt Classes\/Calculus I\/Math 152 - Spring 2021\/ptx\/calculus-notes.ptx\""
+    }
+  },
+  "identifier" : "E4452F97-4E0F-4362-B17A-EDB9C17FF140"
+}

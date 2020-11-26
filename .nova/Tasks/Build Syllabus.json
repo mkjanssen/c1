@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/bash\n\ncd \"~\/Documents\/Faculty Work\/teaching\/Dordt Classes\/Calculus I\/Math 152 - Spring 2021\"\npandoc index.md -s --mathml --css .\/pandoc.css -o index.html"
+    }
+  },
+  "identifier" : "FB722D11-4817-41C1-9AD6-585CE870DC6A"
+}
