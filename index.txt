@@ -4,6 +4,7 @@ title: 'Calculus I'
 
 ## Course Information
 
+* **Institution**: Dordt University
 * **Course**: Math 152-01 (4 cr.)
 * **Term**: Spring 2021
 * **Instructor**: Dr. Mike Janssen, Associate Professor of Mathematics
@@ -29,10 +30,10 @@ A graphing calculator feature equivalent to a TI-84+ will likely come in handy, 
 
 In this course, students will:
 
-* be a _learner_ by demonstrating mastery of the mathematical concepts that have driven the development of our understanding of the inner working of creation and technology over the past 400 years. (RO, CD)
-* be an _explorer_ by actively inquiring into/working with and applying the techniques of limits, differentiation, and integration using standard methods of calculus. (CS)
-* be a _connector_ by applying these tools and concepts to mathematical and real-world problems in a variety of settings. (CS, CR)
-* be an _ambassador_ by reflecting on the beauty and truth that can be found through a careful study of God's mathematical creation. (RO, CD)
+* be _learners_ by demonstrating mastery of the mathematical concepts that have driven the development of our understanding of the inner working of creation and technology over the past 400 years. (RO, CD)
+* be _explorers_ by actively inquiring into/working with and applying the techniques of limits, differentiation, and integration using standard methods of calculus. (CS)
+* be _connectors_ by applying these tools and concepts to mathematical and real-world problems in a variety of settings. (CS, CR)
+* be _ambassadors_ by reflecting on the beauty and truth that can be found through a careful study of God's mathematical creation. (RO, CD)
 
 
 ## Course Liturgies
