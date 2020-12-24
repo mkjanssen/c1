@@ -1,7 +1,8 @@
 {
   "identifier" : "F304D121-F7DE-4D45-8D2F-3F5DAF93842F",
   "ignoredFilePatterns" : [
-    "Spring152Workbook.pdf"
+    "Spring152Workbook.pdf",
+    "Exams"
   ],
   "remotePath" : "\/var\/www\/prof.mkjanssen.org\/html\/c1\/",
   "remoteURL" : "prof.mkjanssen.org\/c1",
