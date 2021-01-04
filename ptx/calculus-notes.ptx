@@ -74,6 +74,7 @@
         </search> -->
 <!-- <rename element="principle">Discussion</rename>
 <rename element="heuristic">Cube Move</rename> -->
+<rename element="insight">Screencast</rename>
   </docinfo>
   <book>
     <title>Calculus I Learning Guides</title>
@@ -108,29 +109,88 @@
 <chapter xml:id="Week-01">
   <title>Week 1: Jan. 15</title>
   
+  <introduction>
+    <p>
+      This week (one day, really), we'll focus on geetting to know one another, getting a feel for the class and how it will run, and then start exploring one of the foundational questions of calculus: how to quantify motion.
+    </p>
+  </introduction>
+  
   <section xml:id="Jan-15">
-    <title>Jan. 15</title>
+    <title>Jan. 15: Course Intro/How do we measure velocity?</title>
     
     <introduction>
     
+    
+    
+    
     <assemblage>
-      <title>Motivating Questions</title>
+      <title>Today's Plan</title>
       <p>
       <statement>
-        Here are some questions we'll consider.
+        Today in class, we will:
         <ol>
-          <li>Testing 1 2 3</li>
+          <li>Set expectations for the course.</li>
+          <li>Engage with the <url href="../">syllabus</url> and Canvas in a scavenger hunt.</li>
+          <li>Work on Preview Activity 1.1.1 and Activities 1.1.2-1.1.4 in <url href="https://activecalculus.org/single/sec-1-1-vel.html">Section 1.1</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479627">Edfinity demo homework</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479624">Section 1.1 Edfinity homework</url>.</li>
         </ol>
+        
       </statement>
       </p>
       
     </assemblage>
     
     
+    </introduction>
+    
+    <subsection>
+      <title>Today's screencast</title>
+      
+      <insight>
+          
+        </insight>
+        
+    </subsection>
+    
+    <subsection>
+      <title>If you missed class today</title>
+    
+    
+    
+      <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete Preview Activity 1.1.1 on Desmos</li>
+        <li>Complete the activities listed above.</li>
+        <li>Start the assigned homework.</li>
+        <li>Obtain a score of 70 on the ALEKS by Monday.</li>
+      </ol>
+      
+    </subsection>
+    
+    
+    <subsection>
+      <title>Optional resources</title>
+      
+    
+    
+
+      
+      Here are some screencasts from the department who wrote our textbook.
+      
+      <insight>
+        <video youtube="6HPe7iwr88k" />
+        <video youtube="O_Z9osv6VGk" />
+        <video youtube="j8kJubOTkME" />
+      </insight>
+    
+    </subsection>
+    
+    
       
       
      
-    </introduction>
+    
     
     
     
@@ -143,23 +203,229 @@
 <chapter xml:id="Week-02">
   <title>Week 2: Jan. 18-22</title>
   
+  <introduction>
+    <p>
+        This week, we'll further explore the idea of velocity, and introduce some mathematical rigor to the discussion with the notion of a limit.
+        We'll then see how limits allow us to find the <emph>instantaneous velocity</emph> of an object whose motion is described by a sufficiently nice function.
+      </p>
+  </introduction>
+  
   <section xml:id="Jan-18">
-    <title>Jan. 18</title>
+    <title>Jan. 18: How do we measure velocity?/The notion of a limit</title>
     
-    
+    <introduction>
+      
+      
+      
+      
+      <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://dordt.instructure.com/courses/3110045/assignments/30476623">prep assignment</url>.</li>
+          <li>Explore more on velocity, and then introduce the notion of a limit.</li>
+          <li>Finish any outstanding activities from last time, then work on <url href="https://activecalculus.org/single/sec-1-2-lim.html">Activities 1.2.2-1.2.4</url></li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479629">Section 1.2 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+      </assemblage>
+      
+      
+      </introduction>
+      
+      <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+      </subsection>
+      
+      <subsection>
+        <title>If you missed class today</title>
+      
+      
+      
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep assignment above.</li>
+        <li>Complete the activities discussed in class.</li>
+        <li>Start the assigned homework.</li>
+        </ol>
+        
+      </subsection>
+      
+      
+      <subsection>
+        <title>Optional resources</title>
+        
+      
+      
+      
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="j8kJubOTkME" />
+        <video youtube="GZzJOAUOqLI" />
+        <video youtube="5TFu_sh_orM" />
+        </insight>
+      
+      </subsection>
     
     
   </section>
   
   <section xml:id="Jan-20">
-    <title>Jan. 20</title>
+    <title>Jan. 20: The derivative of a function at a point</title>
     
+    
+    <introduction>
+      
+      
+      
+      
+      <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the prep activity.</li>
+          <li>Answer any questions over the reading.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-1-3-derivative-pt.html">Activities 1.3.2-1.3.4</url></li>
+          <li>Submit activities and uploads after class.</li>
+          <li>Assign <url href="https://dordt.instructure.com/courses/2913197/assignments/27306939">Section 1.3 homework</url>.</li>
+        </ol>
+        
+        </statement>
+        </p>
+        
+      </assemblage>
+      
+      
+      </introduction>
+      
+      <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+      </subsection>
+      
+      <subsection>
+        <title>If you missed class today</title>
+      
+      
+      
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep.</li>
+        <li>Complete the assigned homework on time.</li>
+        <li>Complete the activities covered in class.</li>
+        </ol>
+        
+      </subsection>
+      
+      
+      <subsection>
+        <title>Optional resources</title>
+        
+      
+      
+      
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="0zpQnwVaU28" />
+        <video youtube="fQ5yelPpFk0" />
+        <video youtube="0DJPSYeLFpc" />
+        </insight>
+      
+      </subsection>
     
   </section>
   
   
   <section xml:id="Jan-22">
-    <title>Jan. 22</title>
+    <title>Jan. 22: The derivative as a function</title>
+    
+    
+    <introduction>
+      
+      
+      
+      
+      <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the reading and preview activity.</li>
+          <li>Explore the derivative as a function.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-1-4-derivative-fxn.html">Activities 1.4.2-1.4.4</url>.</li>
+          <li>Assign <url href="https://dordt.instructure.com/courses/3110045/assignments/30479632">Section 1.4 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+      </assemblage>
+      
+      
+      </introduction>
+      
+      <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+      </subsection>
+      
+      <subsection>
+        <title>If you missed class today</title>
+      
+      
+      
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+      </subsection>
+      
+      
+      <subsection>
+        <title>Optional resources</title>
+        
+      
+      
+      
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="Fzrkq1r-sAI" />
+        <video youtube="62mySLhhfaQ" />
+        <video youtube="TSgyDembmXg" />
+        </insight>
+      
+      </subsection>
     
     
   </section>

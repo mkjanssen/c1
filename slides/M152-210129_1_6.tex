@@ -1,0 +1,281 @@
+\def\pgfsysdriver{pgfsys-dvipdfm.def}
+%\documentclass[aspectratio=1610]{beamer}
+\documentclass{beamer}
+\usetheme[progressbar=head, titleformat=allcaps,block=fill]{metropolis}
+\usepackage[orientation=landscape,size=custom,width=16,height=11.15,scale=.5,debug]{beamerposter}
+
+%%% PACKAGES AND INPUTS
+\usepackage{pgfopts}
+\usepackage{pgfpages}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{3d,hyperref}
+\usepackage{verbatim}
+\usepackage{comment}
+%\input{153controls}
+\usepackage{pgfplots}
+\usepackage{linalgjh}
+
+\usepackage{multicol}
+
+
+%%% POLAR SETUP
+\usepgfplotslibrary{polar}
+\pgfplotsset{compat=1.10}
+\pgfplotsset{mypolarplot/.style={%
+  clip=false, % needed for double line (last \addplot command)
+  domain=0:360, % plot full cycle
+  samples=180, % number of samples; can be locally adjusted
+  grid=both, % display major and minor grids
+  major grid style={black}, 
+  minor x tick num=3, % 3 minor x ticks between majors
+  minor y tick num=1, % 1 minor y tick between majors
+  xtick={0,45,...,359},
+  xticklabels={%
+    $0$,
+    $\frac{ \pi}{4}$,
+    $\frac{ \pi}{2}$,
+    $\frac{3\pi}{4}$,
+    $\pi$,
+    $\frac{5\pi}{4}$,
+    $\frac{3\pi}{2}$,
+    $\frac{7\pi}{4}$
+  },
+  yticklabel style={anchor=north}, % move label position
+}}
+
+%%%% COLORS
+\definecolor{gold}{HTML}{ffb81c}
+\definecolor{heypurple}{HTML}{6B0FFF}
+\definecolor{darkgold}{HTML}{5A440D}
+\definecolor{darkblue}{HTML}{00268D}
+\definecolor{proof}{RGB}{55,54,172}
+\definecolor{nicegreen}{RGB}{0,127,35}
+\definecolor{remgrey}{RGB}{179,179,179}
+\definecolor{Purple}{HTML}{3C0940}
+\definecolor{darkgreen}{HTML}{214009}
+\definecolor{Orange}{HTML}{7F2000}
+\definecolor{Blue}{HTML}{003E78}
+\definecolor{Gold}{HTML}{FFCB0A}
+\definecolor{gvsublue1}{HTML}{0065a4}
+\definecolor{gvsublue2}{HTML}{88B3DA}
+\definecolor{unlred}{HTML}{D00000}
+\definecolor{DordtGrey}{RGB}{127,127,127}
+\definecolor{newred}{HTML}{85140D}
+\definecolor{msugreen}{HTML}{023328}
+\definecolor{seafoam}{HTML}{127F67}
+\definecolor{mnmaroon}{HTML}{790018}
+\definecolor{mngold}{HTML}{FFD75F}
+\definecolor{fallfoliage}{HTML}{763626}
+\definecolor{stone}{HTML}{336B87}
+\definecolor{shadow}{HTML}{2A3132}
+\definecolor{grass}{HTML}{486B00}
+\definecolor{thundercloud}{HTML}{505160}
+\definecolor{meadow}{HTML}{598234}
+\definecolor{ink}{HTML}{20232A}
+\definecolor{rubyred}{HTML}{A01D26}
+\definecolor{stormysea}{HTML}{335252}
+\definecolor{rust}{HTML}{AA4B41}
+\definecolor{forest}{HTML}{1E434C}
+\definecolor{crimson}{HTML}{8D230F}
+\definecolor{vtgold}{HTML}{C99E10}
+\definecolor{vtrust}{HTML}{9B4F0F}
+
+%%%% BEAMER THEMES AND OPTIONS
+%\usetheme[progressbar=head,block=fill]{metropolis}
+%\setbeameroption{show notes on second screen}
+%\metroset{titleformat=smallcaps,block=transparent}
+%\usecolortheme{owl}
+\setbeamercolor{progress bar}{fg=heypurple,bg=heypurple!30}
+\setsansfont[BoldFont={Graphik Semibold},Numbers={Produkt}]{Graphik}
+
+
+%%% Dordt
+%\setbeamercolor{alerted text}{fg=gold}
+%\setbeamercolor{normal text}{fg=black}
+%%%\setbeamercolor{block}{transparent}
+%%%\setbeamercolor{sectionpage}{bg=white}
+%%%\setbeamercolor{titleformatpage}{bg=white}
+%\setbeamercolor{frametitle}{fg=gold,bg=black!2}
+%%%%% GREEN OPTION
+%%%\setbeamercolor{alerted text}{fg=seafoam} 
+%%%\setbeamercolor{frametitle}{bg=msugreen}
+
+
+
+%%% Purple
+\setbeamercolor{alerted text}{fg=heypurple}
+\setbeamercolor{normal text}{fg=black}
+%%\setbeamercolor{block}{transparent}
+%%\setbeamercolor{sectionpage}{bg=white}
+%%\setbeamercolor{titleformatpage}{bg=white}
+\setbeamercolor{frametitle}{fg=heypurple,bg=black!2}
+%%%% GREEN OPTION
+%%\setbeamercolor{alerted text}{fg=seafoam} 
+%%\setbeamercolor{frametitle}{bg=msugreen}
+
+%%% UMICH OPTION
+%\setbeamercolor{alerted text}{fg=gold}
+%\setbeamercolor{frametitle}{bg=Blue}
+
+%%% MN OPTION
+%\setbeamercolor{alerted text}{fg=gold}
+%\setbeamercolor{frametitle}{bg=mnmaroon}
+
+%%% FALL MOUNTAIN
+%\setbeamercolor{alerted text}{fg=fallfoliage}
+%\setbeamercolor{frametitle}{bg=shadow}
+%\setbeamercolor{alerted text}{fg=stone}
+%\setbeamercolor{alerted text}{fg=grass}
+
+%%% ICELAND
+%\setbeamercolor{alerted text}{fg=meadow}
+%\setbeamercolor{frametitle}{bg=thundercloud}
+
+
+%%% VERMONT
+%\setbeamercolor{alerted text}{fg=crimson}
+%\setbeamercolor{alerted text}{fg=vtrust}
+%\setbeamercolor{frametitle}{bg=thundercloud}
+
+
+%%% INDUSTRIAL
+%\setbeamercolor{alerted text}{fg=rubyred}
+%\setbeamercolor{frametitle}{bg=ink}
+
+%%% SAN FRANCISCO
+%\setbeamercolor{alerted text}{fg=rust}
+%\setbeamercolor{frametitle}{bg=stormysea}
+
+
+%%%% MACROS
+\def\rem#1{{\hfill \textit{\tiny {\color{remgrey} {#1}}}}}
+\def\h#1{\alert{#1}}
+\def\C{{\mathbb C}}
+\def\Z{{\mathbb Z}}
+\def\F{{\mathbb F}}
+\def\bF{{\mathbb F}}
+\def\Q{{\mathbb Q}}
+\def\R{{\mathbb R}}
+\def\P{{\mathbb P}}
+\def\A{{\mathbb A}}
+\def\N{{\mathbb N}}
+\def\i{\mathbf i}}
+\def\j{\mathbf j}}
+\def\k{\mathbf k}}
+\def\proj{{\text{proj}}}
+\def\comp{{\text{comp}}}
+\def\set#1{\left\{ {#1} \right\}}
+\def\setof#1#2{{\left\{#1\,:\,#2\right\}}}
+
+
+%%%% ENVIRONMENTS
+\newenvironment{proof-idea}{\noindent{\alert{Proof Idea.}}\hspace*{1em}}{\qed\bigskip\\}
+\newtheorem{conj}{Conjecture}
+\newtheorem{prop}{Proposition}
+\newtheorem{cor}{Corollary}
+\newtheorem{defn}{Definition}
+\newtheorem{question}{Question}
+\newtheorem{goal}{Goal}
+
+\usepackage{cancel}
+\newcommand\lheq{\mathrel{\overset{\makebox[0pt]{\mbox{\normalfont\tiny\sffamily \alert{L'H}}}}{=}}}
+
+\title{\S 1.6: The Second Derivative}
+%\subtitle{Welcome!}
+\author{Dr.\ Mike Janssen}
+\date{January 29, 2021}
+
+\begin{document}
+
+\frame{\titlepage}
+
+
+\frame{
+	\frametitle{Preview Activity Discussion}
+
+}
+
+
+\frame{
+	\frametitle{Increasing, Decreasing and the Big question}
+	
+	
+	\begin{definition}
+Given a function $f(x)$ on an interval $(a,b)$, we say that $f$ is \textbf{increasing on $(a,b)$} provided that for all $x < y$ on $(a,b)$ we have $f(x) < f(y)$. Similarly, we say $f$ is \textbf{decreasing on $(a,b)$} provided that for all $x < y$ on $(a,b)$ we have $f(x) > f(y)$.
+\end{definition}
+	
+	\pause
+	
+	
+	The derivative is a function: how does \emph{it} change? If it's increasing, what does that mean for the original function? \emph{How} is it increasing?
+	
+	
+	
+	
+
+
+
+}
+
+
+
+
+\frame{
+	\frametitle{The Second Derivative}
+	
+	\begin{definition}
+Given a function $f$, the \textbf{second derivative of $f$} is the function
+\[
+f''(x) = \lim\limits_{h\to 0} \frac{f'(x+h) -f'(x)}{h}
+\]
+for all $x$ for which the limit exists.
+\end{definition}
+
+}
+
+
+\frame{
+	\frametitle{Change of Change}
+	
+	\begin{center}
+		\includegraphics[width=4in]{img/1_6_3optsd.png}
+	\end{center}
+	
+	All three graphs show a decreasing function. How would you describe the rate of decrease for each: increasing, decreasing, or neither?
+
+}
+
+\frame{
+	\frametitle{Concavity}
+	
+	\begin{definition}
+Let $f$ be differentiable on $(a,b)$. Then $f$ is \textbf{concave up} on $(a,b)$ if and only if $f'$ is increasing on $(a,b)$. We say $f$ is \textbf{concave down} on $(a,b)$ if and only if $f'$ is decreasing on $(a,b)$.
+\end{definition}
+
+}
+
+\section{Activities 1.6.2-1.6.4}
+
+\frame{
+	\frametitle{Activity 1.6.2}
+
+}
+
+\frame{
+	\frametitle{Activity 1.6.3}
+
+}
+
+\frame{
+	\frametitle{Activity 1.6.4}
+	
+	\begin{center}
+		\includegraphics[width=3.5in]{img/Act_1_6_4soln.png}
+	\end{center}
+
+}
+
+
+\end{document}

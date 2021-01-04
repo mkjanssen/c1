@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Course Intro and Syllabus Exploration}{6}{0}{1}
+\beamer@sectionintoc {2}{Highlights}{8}{0}{2}
+\beamer@sectionintoc {3}{Expectations}{13}{0}{3}
+\beamer@sectionintoc {4}{Questions?}{18}{0}{4}
+\beamer@sectionintoc {5}{Thinking about velocity}{19}{0}{5}
+\beamer@sectionintoc {6}{Bonus}{34}{0}{6}
