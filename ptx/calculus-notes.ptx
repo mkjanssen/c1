@@ -919,7 +919,7 @@
     </section>
     
     <section xml:id="Feb-10">
-      <title>Feb. 10</title>
+      <title>Feb. 10: Elementary derivative rules</title>
       
       <introduction>
         
@@ -994,7 +994,7 @@
     
     
     <section xml:id="Feb-12">
-      <title>Feb. 12</title>
+      <title>Feb. 12: The derivatives of sine and cosine</title>
       
       <introduction>
         
@@ -1056,18 +1056,161 @@
   <chapter xml:id="Week-06">
     <title>Week 6: Feb. 15-19</title>
     
+    <introduction>
+      <p>
+          This week, after a break day on Monday, we focus on more complex rules for differentiation.
+          Specifically, we look at the product and quotient rules, which allow us to calculate derivatives of <m>f\cdot g</m> and <m>f/g</m> in terms of the derivatives of <m>f</m> and <m>g</m>.
+          Then, we apply these to look at derivatives of other trig functions in terms of the derivatives of <m>\sin(x)</m> and <m>\cos(x)</m>.
+          
+        </p>
+        <p>
+          If you'd like to reattempt any learning targets on Friday's quiz, make sure you've <url href="https://forms.gle/hacU9jdzjFpbM7837">signed up</url> by the end of the day on Tuesday.
+        </p>
+    </introduction>
     
     
     <section xml:id="Feb-17">
-      <title>Feb. 17</title>
+      <title>Feb. 17: The product and quotient rules</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-2-3-prod-quot.html">reading</url> and preview activity.</li>
+          <li>Explore the product and quotient rules.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-2-3-prod-quot.html">Activities 2.3.2-2.3.4</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479646">Section 2.3 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="bAGEnF0uFog" />
+        <video youtube="mkrnp3ew0WA" />
+        <video youtube="HxFjkYjabwQ" />
+        <video youtube="9lZNcY3VbdE" />
+        </insight>
+        
+        
+        </subsection>
       
       
     </section>
     
     
     <section xml:id="Feb-19">
-      <title>Feb. 19</title>
+      <title>Feb. 19: Derivatives of other trig functions</title>
       
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-2-4-other-trig.html">reading</url> and preview activity.</li>
+          <li>Derive derivatives of other trig functions from sine, cosine, and the product/quotient rules</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-2-4-other-trig.html">Activities 2.4.2-2.4.4</url></li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479648">Section 2.4 homework</url></li>
+          <li>Take a learning target quiz.</li>
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="wARt0oF46wg" />
+        <video youtube="43UXLvQgmwY" />
+        </insight>
+        
+        </subsection>
       
     </section>
     
@@ -1078,21 +1221,233 @@
   <chapter xml:id="Week-07">
     <title>Week 7: Feb. 22-26</title>
     
+    <introduction>
+      <p>
+          The main focus this week will be on the chain rule.
+          This focus will hopefully underline the importance of the chain rule for all that comes after it (including the calculation of the derivatives of inverse functions that we do on Friday). We'll get lots of practice, which may feel tedious! But take heart--we are near the end of our derivative rule chapter.
+        </p>
+        <p>
+        If you'd like to take a learning target quiz on Friday, make sure you've <url href="https://forms.gle/hacU9jdzjFpbM7837">signed up</url> by the end of the day on Tuesday.
+        </p>
+    </introduction>
+    
     <section xml:id="Feb-22">
-      <title>Feb. 22</title>
+      <title>Feb. 22: The Chain Rule Part I</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-2-5-chain.html">reading</url> and preview activity.</li>
+          <li>Describe and practice the chain rule.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-2-5-chain.html">Activities 2.5.2-2.5.3</url>.</li>
+          
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="HxVn6kRD5NM" />
+        <video youtube="QDc1UmLWhug" />
+        <video youtube="ysp96e3Z-nw" />
+        <video youtube="4y39u0DmrPY" />
+        <video youtube="zexX6t_zbCg" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
     
     <section xml:id="Feb-24">
-      <title>Feb. 24</title>
+      <title>Feb. 24: The Chain Rule Part II</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the reading and preview activity.</li>
+          <li>Explore further uses of the chain rule.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-2-5-chain.html">Activity 2.5.4</url> and a <url href="https://student.desmos.com/activitybuilder/student-greeting/5ff4919c35e30e0b92f03ea9">Desmos activity</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479650">Section 2.5 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+          <video youtube="HxVn6kRD5NM" />
+          <video youtube="QDc1UmLWhug" />
+          <video youtube="ysp96e3Z-nw" />
+          <video youtube="4y39u0DmrPY" />
+          <video youtube="zexX6t_zbCg" />
+          </insight>
+        
+        </subsection>
       
       
     </section>
     
     
     <section xml:id="Feb-26">
-      <title>Feb. 26</title>
+      <title>Feb. 26: Derivatives of inverse functions</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-2-6-inverse.html">reading</url> and preview activity.</li>
+          <li>Explore the inverse function theorem and its consequences, including the derivative of <m>f(x) = \ln(x)</m>.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-2-6-inverse.html">Activities 2.6.2-2.6.3</url></li>
+          <li>Assign <url href="https://dordt.instructure.com/courses/3110045/assignments/30479652">the Section 2.6 homework</url></li>
+          <li>Take a learning target quiz.</li>
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="chdkxtt8XQo" />
+        <video youtube="jhBhSerqbyU" />
+        <video youtube="pEEQNdttZsw" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
@@ -1103,21 +1458,184 @@
   <chapter xml:id="Week-08">
     <title>Week 8: Mar. 1-5</title>
     
+    <introduction>
+      <p>
+          This week, we finish derivative rules by examining derivatives of functions defined implicitly, and then L'Hôpital's rules. We finish with review and prep for Calculation Exam D and our next learning target exam. Don't forget to <url href="https://forms.gle/hacU9jdzjFpbM7837">sign up</url> for a Friday quiz if you'd like to take one.
+        </p>
+    </introduction>
+    
     <section xml:id="Mar-01">
-      <title>Mar. 1</title>
+      <title>Mar. 1: Derivatives of functions given implicitly</title>
       
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-2-7-implicit.html">reading</url> and preview activity.</li>
+          <li>Discuss implicit differentiation.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-2-7-implicit.html">Activities 2.7.2-2.7.4</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479654">Section 2.7 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="YI7uxdvcq4E" />
+        <video youtube="wEiiLU2jFng" />
+        <video youtube="_2aCDXYMz1U" />
+        </insight>
+        
+        </subsection>
       
     </section>
     
     <section xml:id="Mar-03">
-      <title>Mar. 3</title>
+      <title>Mar. 3: Using derivatives to evaluate limits</title>
       
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-2-8-LHR.html">reading</url> and preview activity.</li>
+          <li>Explore the use of derivatives to evaluate limits.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-2-8-LHR.html">Activities 2.8.2-2.8.4</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479655">Section 2.8 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="KXGhzie3b8s" />
+        <video youtube="flM7qVLdezY" />
+        <video youtube="wXXej6AmEKQ" />
+        </insight>
+        
+        </subsection>
       
     </section>
     
     
     <section xml:id="Mar-05">
-      <title>Mar. 5</title>
+      <title>Mar. 5: Derivative practice/review</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Review our derivative rules.</li>
+          <li>Answer any questions you have over the <url href="https://prof.mkjanssen.org/c1/index.html#calculation-exam">Calculation Exam</url>.</li>
+          <li>Take a learning target quiz.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        
       
       
     </section>
@@ -1129,22 +1647,172 @@
   <chapter xml:id="Week-09">
     <title>Week 9: Mar. 8-12</title>
     
+    <introduction>
+      <p>
+          This week we start with the calculation exam and learning target exam 2. Going forward, you'll be able to <url href="https://forms.gle/hacU9jdzjFpbM7837">sign up</url> to reassess the calculation exam in addition to learning targets on ridays.
+        </p>
+        <p>
+          We then dive into chapter 3, which is all about applying our new derivative superpowers to questions in matheamtics and beyond.
+        </p>
+        <p>
+          One other note: the first <url href="https://dordt.instructure.com/courses/3110045/assignments/30479764">reflection assignment</url> is due in two weeks. I'd strongly encourage you to start the reading now so you have time to let it digest before writing your reflection.
+        </p>
+    </introduction>
+    
     <section xml:id="Mar-08">
-      <title>Mar. 8</title>
+      <title>Mar. 8: Calculation Exam D/Learning Target Exam 2</title>
       
+      <p>
+      Study well!
+      </p>
       
     </section>
     
     <section xml:id="Mar-10">
-      <title>Mar. 10</title>
+      <title>Mar. 10: Using derivatives to identify extreme values</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-3-1-tests.html">reading</url> and preview activity.</li>
+          <li>Explore critical numbers and their connection to extrema.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-3-1-tests.html">Activities 3.1.2-3.1.3</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="Bzj_oXB6yIU" />
+        <video youtube="tvF3Rq0urvI" />
+        <video youtube="7RcLQZdB0LM" />
+        <video youtube="x-efl3Br11E" />
+        <video youtube="4Z_lhNVXEV4" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
     
     
     <section xml:id="Mar-12">
-      <title>Mar. 12</title>
+      <title>Mar. 12: Using derivatives to identify extreme values/Using derivatives to describe families of functions</title>
       
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Finish our exploration of <url href="https://activecalculus.org/single/sec-3-1-tests.html">Section 3.1</url>.</li>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-3-2-families.html">reading</url> and preview activity.</li>
+          <li>Explore the implications of derivatives on the shape of graphs.</li>
+          <li>Work <url href="https://activecalculus.org/single/sec-3-1-tests.html#ida">Activity 3.1.4</url> and <url href="https://activecalculus.org/single/sec-3-2-families.html">Activities 3.2.2-3.2.3</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479659">Section 3.1 homework</url></li>
+          <li>Take a learning target quiz.</li>
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="Tyyo8kILvE00" />
+        <video youtube="w_O9IKmDZMI" />
+        <video youtube="NYM4k8TUoII" />
+        <video youtube="zVON9b1gwew" />
+        <video youtube="O2sVd_P5bWo" />
+        </insight>
+        
+        </subsection>
       
     </section>
     
@@ -1154,21 +1822,229 @@
   <chapter xml:id="Week-10">
     <title>Week 10: Mar. 15-19</title>
     
+    <introduction>
+      <p>
+          This week, we continue exploring the use of calculus to minimize and maximize functions.
+          By the end of the week, we apply these optimization techniques to several real-world scenarios.
+          This application will continue into the next week as well.
+        </p>
+        <p>
+          Also, don't forget that the first <url href="https://dordt.instructure.com/courses/3110045/assignments/30479764">reflection assignment</url> is due on Monday, March 22.
+        </p>
+    </introduction>
+    
     <section xml:id="Mar-15">
-      <title>Mar. 15</title>
+      <title>Mar. 15: Using derivatives to describe families of functions.</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-3-2-families.html">reading</url> and preview activity.</li>
+          <li>Wrap up discussing families of functions.</li>
+          <li>Finish the <url href="https://activecalculus.org/single/sec-3-2-families.html">Section 3.2 activities</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479660">Section 3.2 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="NYM4k8TUoII" />
+        <video youtube="zVON9b1gwew" />
+        <video youtube="O2sVd_P5bWo" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
     
     <section xml:id="Mar-17">
-      <title>Mar. 17</title>
+      <title>Mar. 17: Global Optimization</title>
       
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-3-3-optimization.html">reading</url> and preview activity.</li>
+          <li>Explore global optimization</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-3-3-optimization.html">Activities 3.3.2-3.3.4</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479662">Section 3.3 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="ldJfxeGHv3Y" />
+        <video youtube="YE57SJzL8r8" />
+        <video youtube="kz9JFNlQVVI" />
+        </insight>
+        
+        </subsection>
       
     </section>
     
     
     <section xml:id="Mar-19">
-      <title>Mar. 19</title>
+      <title>Mar. 19: Applied Optimization I</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-3-4-applied-opt.html">reading</url> and preview activity.</li>
+          <li>Explore applications of optimization</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-3-4-applied-opt.html">Activities 3.4.2-3.4.3</url></li>
+          <li>Take a learning target quiz</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="Ilu2SZa3SYA" />
+        <video youtube="jH6J-n6zt4c" />
+        <video youtube="uJFxdxSBjok" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
@@ -1179,21 +2055,229 @@
   <chapter xml:id="Week-11">
     <title>Week 11: Mar. 22-26</title>
     
+    <introduction>
+      <p>
+          To start the week, your <url href="https://dordt.instructure.com/courses/3110045/assignments/30479764">reflection on beauty</url> is due.
+          Next Monday is our third learning target exam.
+        </p>
+        <p>
+          This week, we wrap up the derivative. We finish applied optimization on Monday and explore another application, related rates, on Wednesday and Friday.
+        </p>
+    </introduction>
+    
     <section xml:id="Mar-22">
-      <title>Mar. 22</title>
+      <title>Mar. 22: Applied Optimization II</title>
       
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-3-4-applied-opt.html">reading</url> and preview activity.</li>
+          <li>Explore applications of optimization</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-3-4-applied-opt.html">Activities 3.4.4-3.4.5</url></li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479664">Section 3.4 homework</url></li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="Ilu2SZa3SYA" />
+        <video youtube="jH6J-n6zt4c" />
+        <video youtube="uJFxdxSBjok" />
+        </insight>
+        
+        </subsection>
       
     </section>
     
     <section xml:id="Mar-24">
-      <title>Mar. 24</title>
+      <title>Mar. 24: Related Rates I</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-3-5-rel-rates.html">reading</url> and preview activity.</li>
+          <li>Explore the notion of related rates.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-3-5-rel-rates.html">Activities 3.5.2-3.5.3</url></li>
+          
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="Wh6UF4e55tg" />
+        <video youtube="2nnfWMI-wKM" />
+        <video youtube="44yHoaBCQ4Q" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
     
     
     <section xml:id="Mar-26">
-      <title>Mar. 26</title>
+      <title>Mar. 26: Related Rates II</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-3-5-rel-rates.html">reading</url> and preview activity.</li>
+          <li>Explore the notion of related rates.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-3-5-rel-rates.html">Activities 3.5.4-3.5.5</url></li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479665">Section 3.5 homework</url>.</li>
+          <li>Take a learning target quiz; our next learning target exam is on Monday!</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="Wh6UF4e55tg" />
+        <video youtube="2nnfWMI-wKM" />
+        <video youtube="44yHoaBCQ4Q" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
@@ -1203,23 +2287,165 @@
   
   <chapter xml:id="Week-12">
     <title>Week 12: Mar. 29-Apr. 2</title>
-    
+    <introduction>
+      <p>
+          This week, we begin with a learning target exam. We then examine the inverse of the problem that has motivated us so far: rather than looking at distance traveled and determining velocity, how can we determine distance traveled if we are given velocity? We then explore a notion that we'll come to see is related: the Riemann sum.
+        </p>
+    </introduction>
     <section xml:id="Mar-29">
-      <title>Mar. 29</title>
+      <title>Mar. 29: Learning Target Exam 3</title>
+      
+      <p>
+        Study well!
+      </p>
       
       
     </section>
     
     <section xml:id="Mar-31">
-      <title>Mar. 31</title>
+      <title>Mar. 31: Determing distance traveled from velocity</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-4-1-velocity-distance.html">reading</url> and preview activity.</li>
+          <li>Explore the question of determining distance traveled from velocity.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-4-1-velocity-distance.html">Activities 4.1.2-4.1.4</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479670">Section 4.1 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="bTJuR2f-FSs" />
+        <video youtube="xwS-v8MLli4" />
+        <video youtube="TNhHUm2oPi0" />
+        <video youtube="mAul5vTAJSA" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
     
     
     <section xml:id="Apr-02">
-      <title>Apr. 02</title>
+      <title>Apr. 2: Riemann sums</title>
       
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-4-2-Riemann.html">reading</url> and preview activity.</li>
+          <li>Explore Riemann sums</li>
+          <li>Work on Activities <url href="https://activecalculus.org/single/sec-4-2-Riemann.html">4.2.2-4.2.4</url></li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479671">Section 4.2 homework</url></li>
+          <li>Take a learning target quiz</li>
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="oUZdflwDse0" />
+        <video youtube="Eq-DCz52Ozs" />
+        <video youtube="yVZX0YRRTvA" />
+        <video youtube="FvhD3BblfvI" />
+        <video youtube="zl02nRV4Ui4" />
+        </insight>
+        
+        </subsection>
       
     </section>
     
@@ -1229,8 +2455,80 @@
   <chapter xml:id="Week-13">
     <title>Week 13: Apr. 5-Apr. 9</title>
     
+    <introduction>
+      <p>
+          This week, we get another break day on Wednesday. The rest of the week will be spent first extending our new ideas to the definite integral, and exploring its properties, and then connecting the definite integral to the derivative via the Fundamental Theorem of Calculus. Buckle up; it's going to be a big week.
+        </p>
+    </introduction>
     <section xml:id="Apr-05">
-      <title>Apr. 5</title>
+      <title>Apr. 5: The Definite Integral</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-4-3-definite-integral.html">reading</url> and preview activity.</li>
+          <li>Explore the definite integral.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-4-3-definite-integral.html">Activities 4.3.2-4.3.4</url></li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479673">Section 4.3 homework</url></li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="Lp5KsXN4UOQ" />
+        <video youtube="oHIH69Ou4DE" />
+        <video youtube="1SqpYAAyBCk" />
+        <video youtube="MQG9Nur4fdM" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
@@ -1239,7 +2537,74 @@
     
     
     <section xml:id="Apr-09">
-      <title>Apr. 09</title>
+      <title>Apr. 09: The Fundamental Theorem of Calculus</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-4-4-FTC.html">reading</url> and preview activity.</li>
+          <li>Explore the connection between derivatives and integrals via the Fundamental Theorem of Calculus.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-4-4-FTC.html">Activities 4.4.2-4.4.4</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479675">Section 4.4 homework</url>.</li>
+          <li>Take a learning target quiz; Exam 4 is on Monday!</li>
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="bwjUioJyWe8" />
+        <video youtube="1uxPq8Gtm18" />
+        <video youtube="SafcRvQKe4g" />
+        <video youtube="Q8ZKTA4w9q0" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
@@ -1250,24 +2615,173 @@
   <chapter xml:id="Week-14">
     <title>Week 14: Apr. 12-Apr. 16</title>
     
+    <introduction>
+      <p>
+          This is a big week for us.
+        </p>
+        <p>
+        On Monday, we take Exam 4, covering learning targets 10-27.
+        </p>
+        <p>
+        Then, we start our last few sections, exploring antiderivatives; we'll see a close connection to the rest of our course on Friday in the Second Fundamental Theorem of Calculus.
+        </p>
+        <p>
+          One of the last assignments of the semester is our <url href="https://dordt.instructure.com/courses/3110045/assignments/30479765">second reflection</url>, on the historical development of the Fundamental Theorems. I'd encourage you to read the book chapter sooner than later so that you have time to write a thoughtful reflection.
+        </p>
+    </introduction>
+    
     <section xml:id="Apr-12">
-      <title>Apr. 12</title>
+      <title>Apr. 12: Exam 4</title>
       
+      <p>
+        Study well!
+      </p>
       
     </section>
     
     
     <section xml:id="Apr-14">
-      <title>Apr. 14</title>
+      <title>Apr. 14: Constructing accurate graphs of antiderivatives</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-5-1-antid-graphs.html">reading</url> and preview activity.</li>
+          <li>Explore the graphical relationship between a function and its antiderivatives.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-5-1-antid-graphs.html">Activities 5.1.2-5.1.4</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479678">Section 5.1 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="4hpgCbte6KU" />
+        <video youtube="lLtJhAy_MXM" />
+        <video youtube="hAXOkxXM_ss" />
+        <video youtube="qe-ViJhJYB4" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
     
     
     <section xml:id="Apr-16">
-      <title>Apr. 16</title>
+      <title>Apr. 16: The Second Fundamental Theorem of Calculus Part I</title>
       
-      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-5-2-FTC2.html">reading</url> and preview activity.</li>
+          <li>Explore the algebraic relationship between functions and their antiderivatives via the Second FTC.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-5-2-FTC2.html">Activities 5.2.2-5.2.4</url>.</li>
+          <li>Take a learning target quiz.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="2bWL6k_ER9g" />
+        <video youtube="EL48G_vtzKw" />
+        <video youtube="1P6kBhdiblw" />
+        </insight>
+        
+        </subsection>
     </section>
     
   </chapter>
@@ -1277,22 +2791,237 @@
   <chapter xml:id="Week-15">
     <title>Week 15: Apr. 19-Apr. 23</title>
     
+    <introduction>
+      <p>
+          This week, we finish new material. We begin by wrapping up our discussion of the Second Fundamental Theorem on Monday.
+          We then consider an incredibly important antiderivative technique known as <term>substitution</term>.
+          Any further work with calculus will require a mastery of substitution, so we spend two days on it.
+        </p>
+        <p>
+          As we begin wrapping up the semester, don't forget to complete your <url href="https://dordt.instructure.com/courses/3110045/assignments/30479765">second reflection</url>, due at the end of next week. It's crucial for getting a decent grade.
+          Also, it can be tempting to let a few things slide (homework, weekly uploads, learning targets), but I want to encourage you to persist. You've come too far to let a few missed assignments have an outsize effect on your final grade.
+        </p>
+    </introduction>
+    
+    
+    
     <section xml:id="Apr-19">
-      <title>Apr. 19</title>
+      <title>Apr. 19: Second Fundamental Theorem of Calculus Part II</title>
       
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-5-2-FTC2.html">reading</url> and preview activity.</li>
+          <li>Explore the algebraic relationship between functions and their antiderivatives via the Second FTC.</li>
+          <li>Finish <url href="https://activecalculus.org/single/sec-5-2-FTC2.html">Activities 5.2.2-5.2.4</url>.</li>
+          <li>Assign <url href="https://dordt.instructure.com/courses/3110045/assignments/30479680">the Section 5.2 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="2bWL6k_ER9g" />
+        <video youtube="EL48G_vtzKw" />
+        <video youtube="1P6kBhdiblw" />
+        </insight>
+        
+        </subsection>
       
     </section>
     
     
     <section xml:id="Apr-21">
-      <title>Apr. 21</title>
+      <title>Apr. 21: Integration by Substitution Part I</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-5-3-substitution.html">reading</url> and preview activity.</li>
+          <li>Explore substitution.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-5-3-substitution.html">Activities 5.3.2.-5.3.4</url></li>
+          <li>Start the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479682">Section 5.3 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="uTT6e-yXZyA" />
+        <video youtube="p_z5AU2z4DI" />
+        <video youtube="G7zJdIpXIq8" />
+        <video youtube="_Y-01MZOebQ" />
+        <video youtube="NjcjFwX653s" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
     
     
     <section xml:id="Apr-23">
-      <title>Apr. 23</title>
+      <title>Apr. 23: Integration by Substitution Part II</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-5-3-substitution.html">reading</url> and preview activity.</li>
+          <li>Explore substitution.</li>
+          <li>Finish <url href="https://activecalculus.org/single/sec-5-3-substitution.html">Activities 5.3.2.-5.3.4</url></li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479682">Section 5.3 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="uTT6e-yXZyA" />
+        <video youtube="p_z5AU2z4DI" />
+        <video youtube="G7zJdIpXIq8" />
+        <video youtube="_Y-01MZOebQ" />
+        <video youtube="NjcjFwX653s" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
@@ -1303,22 +3032,42 @@
   <chapter xml:id="Week-16">
     <title>Week 16: Apr. 26-Apr. 30</title>
     
+    <introduction>
+      <p>
+          This week is about wrapping up loose ends.
+          We have one more learning target exam on Wednesday.
+          We'll review for that on Monday, and review for the final on Friday.
+          Don't forget to submit your <url href="https://dordt.instructure.com/courses/3110045/assignments/30479765">second (and final) reflection</url> by the end of the day on Friday.
+        </p>
+    </introduction>
+    
     <section xml:id="Apr-26">
-      <title>Apr. 26</title>
+      <title>Apr. 26: Review for Exam 5</title>
       
+      <p>
+        Bring questions! Or, if you can't make it, send them in ahead of time.
+      </p>
       
     </section>
     
     
     <section xml:id="Apr-28">
-      <title>Apr. 28</title>
+      <title>Apr. 28: Exam 5</title>
+      
+      <p>
+        Study well!
+      </p>
       
       
     </section>
     
     
     <section xml:id="Apr-30">
-      <title>Apr. 30</title>
+      <title>Apr. 30: Review for final and wrap-up</title>
+      
+      <p>
+        Bring your questions!
+      </p>
       
       
     </section>
