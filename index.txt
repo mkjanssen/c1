@@ -73,7 +73,7 @@ Your progress on this aspect of the course will be based on the number of Engage
 
 The online homework (done on Edfinity and accessed via Canvas) consists of regular problems due by 5:00pm Central on the listed due dates, typically the class day after we finish covering the relevant section. Your average on all of the homework sets will affect your final grade. You have an unlimited number of attempts on each problem, so your overall homework average should reflect not only your knowledge of the material but also your perseverance and commitment to finishing the work.
 
-#### Learning Target Exams
+#### <a id="learning-target-exams">Learning Target Exams
 
 
 There are 30 learning targets in this course ([listed below](#learning-targets)). Each learning target will be assessed on at least two exams. Each problem will earn a grade of **M** (meets expectations) or **R** (revision/reassessment needed). The number of learning targets assessed at **M** will affect your final grade.
@@ -127,7 +127,7 @@ There are two goals of the assessments in this course. **The first goal** is to 
 
 **The second goal** of the assessments is to measure how well you are meeting the learning outcomes of the course. However, I am primarily concerned with your ability to demonstrate mastery of the learning outcomes eventually, so the opportunity to reattempt or to revise and resubmit is available for the other assessment categories.
 
-### Reattempts
+### <a id="reattempts">Reattempts
 
 If you do not pass the Calculation Exam or a learning target during the scheduled exam times in class, you will be able to reattempt them outside of class. During non-exam weeks, you will be allowed to [sign up by Tuesday at 11:59pm](https://forms.gle/hacU9jdzjFpbM7837) to reassess the Calculation Exam or up to 2 learning targets on Fridays immediately following class from 9:25am-9:50am. Learning Targets may only be reassessed after they first appear on an exam, and up to the Friday prior to the exam that is two exams after the first exam they appeared on. For example, learning targets 1-9 will be assessed on Exams 1 and 2, and can be reassessed during Friday quizzes on Feb. 12, Feb. 19, Feb. 26, Mar. 5, Mar. 12, Mar. 19, and Mar. 26 (and then only if you fill out the form!). Learning Targets 14 – 30 may be reassessed during the final exam block.
 
@@ -178,6 +178,9 @@ derivative. (Exercise 1.6.5, 1.6.7)
 where it is not differentiable.** (Exercises 1.7.3, 1.7.5)
 9. **Find a local linearization, use it to estimate the function at a nearby point, and answer questions about the
 accuracy of that estimate.** (Exercises 1.8.1, 1.8.2, 1.8.3, 1.8.4)
+
+---
+
 10. Find the equation of a tangent line. (Exercises 2.1.8, 2.2.2, 2.3.12b, 2.4.5)
 11. **Given information about two or more functions (either graphs or values, but not the equations), answer
 questions about new functions involving those functions and their derivatives.** (Exercises 2.1.10, 2.1.11.
@@ -186,6 +189,9 @@ questions about new functions involving those functions and their derivatives.**
 13. **Use L’Hopital’s Rule to evaluate limits involving indeterminate forms.** (Exercises 2.8.3, 2.8.4, 2.8.5)
 14. Find the intervals where a function is increasing/decreasing and identify the relative maximums and
  minimums of the function. (Exercises 3.1.1, 3.1.4)
+ 
+---
+ 
 15. Find the intervals where a function is concave up/down and identify the inflection points of the function.
 (Exercises 3.1.1, 3.1.2)
 16. Use the second derivative test to identify the local maximums and minimums of a function.
@@ -196,6 +202,9 @@ derivative, and its second derivative.** (Exercise 1.6.6, 3.1.5 )
 (Exercises 3.4.2, 3.4.4)
 20. Solve an applied optimization problem. (Exercises 3.4.1, 3.4.2, 3.4.3, 3.4.4, 3.4.5)
 21. Solve a related rates problem. (Exercises 3.5.1, 3.5.2, 3.5.3, 3.5.4, 3.5.5)
+
+---
+
 22. **Use antiderivatives to answer questions involving total distance traveled, change in position, velocity, and
 acceleration.** (Exercises 4.1.1, 4.1.2, 4.1.3, 4.1.4, 4.1.5)
 23. Use Riemann sums to estimate the area between a positive function and the horizontal axis. (Exercises 4.2.1,
@@ -205,7 +214,10 @@ acceleration.** (Exercises 4.1.1, 4.1.2, 4.1.3, 4.1.4, 4.1.5)
 25. **Use graphs of functions and properties of definite integrals to evaluate definite integrals.** (Exercises4.3.1,
 4.3.2, 4.3.3, 4.3.4, 4.3.6, 4.3.7)
 26. **Use the fundamental theorem of calculus to evaluate definite integrals.** (Exercises 4.4.2, 4.4.3, 4.4.4, 4.4.5)
-27. Given the graph of a function, answer questions about its antiderivatives. (Exercises 5.1.1, 5.1.4, 5.1..5
+27. Given the graph of a function, answer questions about its antiderivatives. (Exercises 5.1.1, 5.1.4, 5.1.5
+
+---
+
 28. Given the graph of a function, sketch a specified accumulation function of that function. (Exercises5.1.3,
 5.2.4)
 29. Use the second fundamental theorem of calculus to determine the derivative of an accumulation function.

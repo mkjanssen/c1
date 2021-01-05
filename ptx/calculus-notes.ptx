@@ -224,10 +224,10 @@
         <statement>
         Today in class, we will:
         <ol>
-          <li>Discuss the <url href="https://dordt.instructure.com/courses/3110045/assignments/30476623">prep assignment</url>.</li>
+          <li>Discuss the <url href="https://dordt.instructure.com/courses/3110045/assignments/30476623">prep assignment</url> and <url href="https://activecalculus.org/single/sec-1-2-lim.html">reading</url>.</li>
           <li>Explore more on velocity, and then introduce the notion of a limit.</li>
           <li>Finish any outstanding activities from last time, then work on <url href="https://activecalculus.org/single/sec-1-2-lim.html">Activities 1.2.2-1.2.4</url></li>
-          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479629">Section 1.2 homework</url>.</li>
+          <!-- <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479629">Section 1.2 homework</url>.</li> -->
           
         </ol>
         
@@ -284,7 +284,86 @@
   </section>
   
   <section xml:id="Jan-20">
-    <title>Jan. 20: The derivative of a function at a point</title>
+    <title>Jan. 20: The notion of limit</title>
+    
+    
+    <introduction>
+      
+      
+      
+      
+      <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <!-- <li>Discuss the <url href="https://dordt.instructure.com/courses/3110045/assignments/30476623">prep assignment</url>.</li> -->
+          <li>Explore the notion of limit in more depth.</li>
+          <li>Finish any outstanding activities from last time, then work on <url href="https://activecalculus.org/single/sec-1-2-lim.html">Activities 1.2.2-1.2.4</url></li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479629">Section 1.2 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+      </assemblage>
+      
+      
+      </introduction>
+      
+      <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+      </subsection>
+      
+      <subsection>
+        <title>If you missed class today</title>
+      
+      
+      
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep assignment above.</li>
+        <li>Complete the activities discussed in class.</li>
+        <li>Start the assigned homework.</li>
+        </ol>
+        
+      </subsection>
+      
+      
+      <subsection>
+        <title>Optional resources</title>
+        
+      
+      
+      
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <!-- <video youtube="j8kJubOTkME" /> -->
+        <video youtube="GZzJOAUOqLI" />
+        <video youtube="5TFu_sh_orM" />
+        </insight>
+      
+      </subsection>
+    
+  </section>
+  
+  
+  
+  
+  
+  
+  
+  <section xml:id="Jan-22">
+    <title>Jan. 22: The derivative of a function at a point</title>
     
     
     <introduction>
@@ -299,7 +378,7 @@
         Today in class, we will:
         <ol>
           <li>Discuss the prep activity.</li>
-          <li>Answer any questions over the reading.</li>
+          <li>Answer any questions over the <url href="https://activecalculus.org/single/sec-1-3-derivative-pt.html">reading</url>.</li>
           <li>Work on <url href="https://activecalculus.org/single/sec-1-3-derivative-pt.html">Activities 1.3.2-1.3.4</url></li>
           <li>Submit activities and uploads after class.</li>
           <li>Assign <url href="https://dordt.instructure.com/courses/2913197/assignments/27306939">Section 1.3 homework</url>.</li>
@@ -354,11 +433,25 @@
       
       </subsection>
     
+    
+    
+    
+    
   </section>
   
+</chapter>
+
+<chapter xml:id="Week-03">
+  <title>Week 3: Jan. 25-29</title>
   
-  <section xml:id="Jan-22">
-    <title>Jan. 22: The derivative as a function</title>
+  <introduction>
+    <p>
+        This week, we begin to explore the derivative as a function. A major theme of this course is <emph>interpretation</emph>, so we will spend time on Wednesday thinking about how to interpret the derivative, as well as estimate it when our techniques (or definition) fail us. We'll end the week by considerinv the derivative of the derivative, also known as the second derivative.
+      </p>
+  </introduction>
+  
+  <section xml:id="Jan-25">
+    <title>Jan. 25: The derivative as a function</title>
     
     
     <introduction>
@@ -372,7 +465,7 @@
         <statement>
         Today in class, we will:
         <ol>
-          <li>Discuss the reading and preview activity.</li>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-1-4-derivative-fxn.html">reading</url> and preview activity.</li>
           <li>Explore the derivative as a function.</li>
           <li>Work on <url href="https://activecalculus.org/single/sec-1-4-derivative-fxn.html">Activities 1.4.2-1.4.4</url>.</li>
           <li>Assign <url href="https://dordt.instructure.com/courses/3110045/assignments/30479632">Section 1.4 homework</url>.</li>
@@ -430,27 +523,147 @@
     
   </section>
   
-</chapter>
-
-<chapter xml:id="Week-03">
-  <title>Week 3: Jan. 25-29</title>
-  
-  <section xml:id="Jan-25">
-    <title>Jan. 25</title>
-    
-    
-  </section>
-  
   <section xml:id="Jan-27">
-    <title>Jan. 27</title>
+    <title>Jan. 27: Interpreting, estimating, and using the derivative</title>
     
+    <introduction>
+      
+      
+      
+      
+      <assemblage>
+      <title>Today's Plan</title>
+      <p>
+      <statement>
+      Today in class, we will:
+      <ol>
+        <li>Discuss the <url href="https://activecalculus.org/single/sec-1-5-units.html">reading</url> and preview activity.</li>
+        <li>Explore a conceptual understanding of the derivative and use it to interpret and estimate contextual situations.</li>
+        <li>Work on <url href="https://activecalculus.org/single/sec-1-5-units.html">Activities 1.5.2-1.5.4</url>.</li>
+        <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479634">Section 1.5 homework</url>.</li>
+        
+      </ol>
+      
+      </statement>
+      </p>
+      
+      </assemblage>
+      
+      
+      </introduction>
+      
+      <subsection>
+      <title>Today's screencast</title>
+      
+      <insight>
+        
+      </insight>
+      
+      </subsection>
+      
+      <subsection>
+      <title>If you missed class today</title>
+      
+      
+      
+      <ol>
+      <li>Watch the screencast above.</li>
+      <li>Complete the prep and all in-class activities.</li>
+      <li>Complete any assigned homework.</li>
+      </ol>
+      
+      </subsection>
+      
+      
+      <subsection>
+      <title>Optional resources</title>
+      
+      
+      
+      
+      
+      Here are some screencasts from the department who wrote our textbook.
+      
+      <insight>
+      <video youtube="XZa0uNu6Uyk" />
+      <video youtube="wWdijnTdkTk" />
+      <video youtube="CJ_OZ-Uxs3o" />
+      </insight>
+      
+      </subsection>
     
   </section>
   
   
   <section xml:id="Jan-29">
-    <title>Jan. 29</title>
+    <title>Jan. 29: The second derivative</title>
     
+    
+    <introduction>
+      
+      
+      
+      
+      <assemblage>
+      <title>Today's Plan</title>
+      <p>
+      <statement>
+      Today in class, we will:
+      <ol>
+        <li>Discuss the <url href="https://activecalculus.org/single/sec-1-6-second-d.html">reading</url> and preview activity.</li>
+        <li>Explore the second derivative.</li>
+        <li>Complete <url href="https://activecalculus.org/single/sec-1-6-second-d.html">Activities 1.6.2-1.6.4</url>.</li>
+        <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479636">Section 1.6 homework</url>.</li>
+        
+      </ol>
+      
+      </statement>
+      </p>
+      
+      </assemblage>
+      
+      
+      </introduction>
+      
+      <subsection>
+      <title>Today's screencast</title>
+      
+      <insight>
+        
+      </insight>
+      
+      </subsection>
+      
+      <subsection>
+      <title>If you missed class today</title>
+      
+      
+      
+      <ol>
+      <li>Watch the screencast above.</li>
+      <li>Complete the prep and all in-class activities.</li>
+      <li>Complete any assigned homework.</li>
+      </ol>
+      
+      </subsection>
+      
+      
+      <subsection>
+      <title>Optional resources</title>
+      
+      
+      
+      
+      
+      Here are some screencasts from the department who wrote our textbook.
+      
+      <insight>
+      <video youtube="UtzyPEk2zxA" />
+      <video youtube="SIp6g-u-rkc" />
+      <video youtube="o1_o4E-LGsA" />
+      </insight>
+      
+      </subsection>
     
   </section>
   
@@ -467,21 +680,192 @@
   <chapter xml:id="Week-04">
     <title>Week 4: Feb. 1-5</title>
     
+    <introduction>
+      <p>
+          This week, we'll conclude our conceptual exploration of the derivative. We begin with an exploration of the relationship between limits, differentiability, and continuity. We then focus on the tangent line approximation to a function, which is one of the most important concepts associated to the derivative. We'll finish the week with a review/catch up day for our first exam, taken in class on February 8. It will cover learning targets 1-9.
+        </p>
+    </introduction>
+    
     <section xml:id="Feb-01">
-      <title>Feb. 1</title>
+      <title>Feb. 1: Limits, Continuity, and Differentiablity</title>
+      
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-1-7-lim-cont-diff.html">reading</url> and preview activity.</li>
+          <li>Explore the relationship between limits, continuity, and differentiability</li>
+          <li>Complete <url href="https://activecalculus.org/single/sec-1-7-lim-cont-diff.html">Activities 1.7.2-1.7.4</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479638">Section 1.7 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="7-S0qHpnddk" />
+        <video youtube="OmgIej6fHrc" />
+        <video youtube="71PGm02zFjw" />
+        <video youtube="_vimObBaJxI" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
     
     <section xml:id="Feb-03">
-      <title>Feb. 3</title>
+      <title>Feb. 3: The tangent line approximation</title>
       
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-1-8-tan-line-approx.html">reading</url> and preview activity.</li>
+          <li>Explore the use of tangent lines for approximating complicated functions.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-1-8-tan-line-approx.html">Activities 1.8.2 and 1.8.3</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479640">Section 1.8 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="COzBFFGoyTo" />
+        <video youtube="BgPRV9Hxk1k" />
+        <video youtube="E6P67pjf8Jc" />
+        <video youtube="2KpwQewcKbQ" />
+        </insight>
+        
+        </subsection>
       
     </section>
     
     
     <section xml:id="Feb-05">
-      <title>Feb. 5</title>
+      <title>Feb. 5: Review/catch up</title>
+      
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will review for the first mastery exam, covering <url href="https://prof.mkjanssen.org/c1/index.html#learning-targets">learning targets 1-9</url>.
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        
       
       
     </section>
@@ -492,14 +876,118 @@
   <chapter xml:id="Week-05">
     <title>Week 5: Feb. 8-12</title>
     
+    <introduction>
+      <p>
+          This week, we start with our first mastery exam. 
+          Going forward, we'll have Friday quizzes that allow you to <url href="https://prof.mkjanssen.org/c1/index.html#reattempts">reattempt</url> missed learning targets.
+        </p>
+        <p>
+          After that, we'll start working on algebraic rules for derivatives. I apologize--this part of the course can be a bit tedious! It's best to think of it as building a skill that will give you calculus superpowers when it comes to the applications in Chapter 3. 
+        </p>
+    </introduction>
+    
     <section xml:id="Feb-08">
       <title>Feb. 8</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Take our first exam! Contact me if you have to miss for COVID-related reasons and we will figure out a makeup plan.</li>
+          
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+       
       
       
     </section>
     
     <section xml:id="Feb-10">
       <title>Feb. 10</title>
+      
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-2-1-elem-rules.html">reading</url> and preview activity.</li>
+          <li>Explore elementary derivative rules.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-2-1-elem-rules.html">Activities 2.1.2-2.1.4</url>.</li>
+          <li>Assign <url href="https://dordt.instructure.com/courses/3110045/assignments/30479642">Section 2.1 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        <subsection>
+        <title>Optional resources</title>
+        
+        
+        
+        
+        
+        Here are some screencasts from the department who wrote our textbook.
+        
+        <insight>
+        <video youtube="wFOgWzI0SuQ" />
+        <video youtube="ciBNzth33Fw" />
+        <video youtube="kcQieXhoAqs" />
+        <video youtube="gya8IngB1BI" />
+        <video youtube="BaAj1IZvt-w" />
+        </insight>
+        
+        </subsection>
       
       
     </section>
@@ -508,6 +996,56 @@
     <section xml:id="Feb-12">
       <title>Feb. 12</title>
       
+      <introduction>
+        
+        
+        
+        
+        <assemblage>
+        <title>Today's Plan</title>
+        <p>
+        <statement>
+        Today in class, we will:
+        <ol>
+          <li>Discuss the <url href="https://activecalculus.org/single/sec-2-2-sin-cos.html">reading</url> and preview activity.</li>
+          <li>Explore the sine and cosine functions and their derivatives.</li>
+          <li>Work on <url href="https://activecalculus.org/single/sec-2-2-sin-cos.html">Activities 2.2.2-2.2.4</url>.</li>
+          <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479644">Section 2.2 homework</url>.</li>
+          
+        </ol>
+        
+        </statement>
+        </p>
+        
+        </assemblage>
+        
+        
+        </introduction>
+        
+        <subsection>
+        <title>Today's screencast</title>
+        
+        <insight>
+          
+        </insight>
+        
+        </subsection>
+        
+        <subsection>
+        <title>If you missed class today</title>
+        
+        
+        
+        <ol>
+        <li>Watch the screencast above.</li>
+        <li>Complete the prep and all in-class activities.</li>
+        <li>Complete any assigned homework.</li>
+        </ol>
+        
+        </subsection>
+        
+        
+        
       
     </section>
     
