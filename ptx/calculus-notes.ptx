@@ -130,7 +130,7 @@
         Today in class, we will:
         <ol>
           <li>Set expectations for the course.</li>
-          <li>Engage with the <url href="../">syllabus</url> and Canvas in a scavenger hunt.</li>
+          <li>Engage with the <url href="../">syllabus</url> and Canvas in a <url href="https://student.desmos.com/activitybuilder/student-greeting/5ff4c709b2ab0a2ed12e72bf">scavenger hunt</url>.</li>
           <li>Work on Preview Activity 1.1.1 and Activities 1.1.2-1.1.4 in <url href="https://activecalculus.org/single/sec-1-1-vel.html">Section 1.1</url>.</li>
           <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479627">Edfinity demo homework</url>.</li>
           <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479624">Section 1.1 Edfinity homework</url>.</li>
@@ -142,11 +142,10 @@
     </assemblage>
     
     
-    </introduction>
-    
+    </introduction>    
     <subsection>
       <title>Today's screencast</title>
-      
+      <video ee="eqsjwev" />
       <insight>
           
         </insight>
@@ -211,7 +210,7 @@
   </introduction>
   
   <section xml:id="Jan-18">
-    <title>Jan. 18: How do we measure velocity?/The notion of a limit</title>
+    <title>Jan. 18: How do we measure velocity?</title>
     
     <introduction>
       
@@ -225,8 +224,8 @@
         Today in class, we will:
         <ol>
           <li>Discuss the <url href="https://dordt.instructure.com/courses/3110045/assignments/30476623">prep assignment</url> and <url href="https://activecalculus.org/single/sec-1-2-lim.html">reading</url>.</li>
-          <li>Explore more on velocity, and then introduce the notion of a limit.</li>
-          <li>Finish any outstanding activities from last time, then work on <url href="https://activecalculus.org/single/sec-1-2-lim.html">Activities 1.2.2-1.2.4</url></li>
+          <li>Explore more on velocity. We'll save a formal discussion of limits for next time.</li>
+          <li>Finished Activities 1.1.2 and 1.1.4, as well as an example.</li>
           <!-- <li>Assign the <url href="https://dordt.instructure.com/courses/3110045/assignments/30479629">Section 1.2 homework</url>.</li> -->
           
         </ol>
@@ -243,7 +242,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="xyqtxhu" />
         </insight>
         
       </subsection>
@@ -317,7 +316,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="snhtvvk" />
         </insight>
         
       </subsection>
@@ -396,7 +395,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="qbzumyp" />
         </insight>
         
       </subsection>
@@ -484,8 +483,16 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="cchrprg" />
         </insight>
+        
+        <note>
+          <statement>
+            <p>
+              Since we didn't get to look at all of the graphs in Activity 1.4.2, I've posted the <url href="https://dordt.instructure.com/files/197724486/download?download_frd=1">solutions</url> to Canvas.
+            </p>
+          </statement>
+        </note>
         
       </subsection>
       
@@ -556,7 +563,7 @@
       <title>Today's screencast</title>
       
       <insight>
-        
+        <video ee="dptxjrj" />
       </insight>
       
       </subsection>
@@ -629,7 +636,7 @@
       <title>Today's screencast</title>
       
       <insight>
-        
+        <video ee="pdrgesm" />
       </insight>
       
       </subsection>
@@ -640,6 +647,7 @@
       
       
       <ol>
+      <li><url href="https://dordt.instructure.com/files/198149555/download?download_frd=1">View solutions to Activity 1.6.2</url></li>
       <li>Watch the screencast above.</li>
       <li>Complete the prep and all in-class activities.</li>
       <li>Complete any assigned homework.</li>
@@ -720,7 +728,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="ulrutjr" />
         </insight>
         
         </subsection>
@@ -793,7 +801,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="rzesgsb" />
         </insight>
         
         </subsection>
@@ -860,7 +868,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="jfacnfg" />
         </insight>
         
         </subsection>
@@ -887,7 +895,7 @@
     </introduction>
     
     <section xml:id="Feb-08">
-      <title>Feb. 8</title>
+      <title>Feb. 8: Exam 1</title>
       
       <introduction>
         
@@ -951,7 +959,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="tjydnwk" />
         </insight>
         
         </subsection>
@@ -1026,7 +1034,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="wstqbje" />
         </insight>
         
         </subsection>
@@ -1102,7 +1110,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="kzugvnn" />
         </insight>
         
         </subsection>
@@ -1177,7 +1185,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="xkbytyf" />
         </insight>
         
         </subsection>
@@ -1195,9 +1203,19 @@
         
         </subsection>
         
+        <subsection>
+            <title>Solutions to Activity 2.4.4</title>
+            <p>
+                <url href="https://dordt.instructure.com/files/200014715/download?download_frd=1">Download the solutions here.</url>
+            </p>
+
+        </subsection>
+
+        
         
         <subsection>
         <title>Optional resources</title>
+        
         
         
         
@@ -1262,9 +1280,9 @@
         
         <subsection>
         <title>Today's screencast</title>
-        
+            
         <insight>
-          
+          <video ee="kvqvyug" />
         </insight>
         
         </subsection>
@@ -1338,7 +1356,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="cdyvtgg" />
         </insight>
         
         </subsection>
@@ -1413,7 +1431,7 @@
         <title>Today's screencast</title>
         
         <insight>
-          
+          <video ee="lctezbr" />
         </insight>
         
         </subsection>

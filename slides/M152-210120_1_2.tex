@@ -193,10 +193,28 @@
 
 \frame{\titlepage}
 
+\frame{
+	\frametitle{Preview Activity 1.2.1 Discussion}
 
+}
 
 \frame{
-	\frametitle{Recall The definition of a limit}
+	\frametitle{Why do we need limits?}
+	
+	\begin{itemize}
+	\item Limits give a precise way to talk about trends in function values.
+	
+	\item They answer the question: what is $f(x)$ (output) doing as $x$ (input) approaches some value?
+	\item Example: What is $AV_{[a,a+h]}$ doing as $h\to 0$?
+	\item \textbf{Note:} $f(a)$ need not be defined for $f$ to have a limit at $x=a$.
+	
+	
+\end{itemize}
+
+}
+
+\frame{
+	\frametitle{The definition}
 	
 	\begin{definition}
 Given a function $f$, a fixed input $x = a$, and a real number $L$, we say that $f$ \textbf{has limit $L$ as $x$ approaches $a$}, and write
@@ -208,7 +226,40 @@ Given a function $f$, a fixed input $x = a$, and a real number $L$, we say that 
 
 }
 
+\frame{
+	\frametitle{Exploration}
+	
+	\begin{minipage}[t]{0.45\linewidth}
+For the function $f(x)$ pictured, find the following limits, if they exist:
+\begin{itemize}
+	\item $\lim\limits_{x\to 2} f(x)$
+	\item $\lim\limits_{x\to 0} f(x)$
+\end{itemize}
+\end{minipage}
+\hspace{0.5cm}
+\begin{minipage}[c]{0.45\linewidth}
+\centering
+\includegraphics[width=\textwidth]{img/1_2_limit01.png}
+\end{minipage}
 
+}
+
+\frame{
+	\frametitle{Another approach}
+	
+	\begin{minipage}[t]{0.45\linewidth}
+\rem{The function is $f(x) = \sin \frac{\pi}{x}$} 
+
+\rem{$10^{-k}, 3\cdot 10^{-k}$}
+\vspace{5in}
+\end{minipage}
+\hspace{0.5cm}
+\begin{minipage}[b]{0.45\linewidth}
+\centering
+\includegraphics[width=\textwidth]{img/1_2_limit02.png}
+\end{minipage}
+
+}
 
 \frame{
 	\frametitle{Activity 1.2.2}
@@ -229,106 +280,36 @@ Given a function $f$, a fixed input $x = a$, and a real number $L$, we say that 
 
 }
 
+
+
+
+
+\frame{
+	\frametitle{Instantaneous Velocity is the Limit of the Averages}
+	
+	\begin{itemize}
+	\item That is: $IV_{t=a} = \lim\limits_{b\to a} AV_{[a,b]} = \lim\limits_{b\to a} \frac{s(b)- s(a)}{b-a}$\pause
+	\item Equivalently: 
+	\[
+		IV_{t=a} = \lim\limits_{h\to 0} AV_{[a,a+h]} = \lim\limits_{h\to 0} \frac{s(a+h)-s(a)}{h}
+	\]\pause
+	\item Recall our discussion of the \textbf{\alert{Infinity Principle}}
+\end{itemize}
+
+}
+
 \frame{
 	\frametitle{Activities 1.2.3--1.2.4}
 
 }
 
-\section{Bonus Activities}
-
-\frame{
-	\frametitle{Prep Activity Discussion}
-	
-	Recall: given a function $f$, its average rate of change is
-	\[
-		AV_{[a,b]} = \frac{f(b) - f(a)}{b-a}
-	\]
-	
-	\pause
-	
-	What meaningful sentence did you write that explains how the average rate of change is connected to a slope?
-
-}
 
 
 
-\section{Average $\to$ Instantaneous}
-
-\frame{
-	\frametitle{The Infinity Principle Strikes Back}
-	
-	The \textbf{\alert{BIG IDEA of Calculus}}: Do ``easy'' calculations over infinitesimally small intervals, and stitch the results into a calculation over a larger interval on which more complicated behavior occurs.
-	
-	
-	
-	
-
-}
-
-\section{The Limit Definition of the Derivative}
-
-
-\frame{
-	\frametitle{The Definition}
-	
-	\begin{definition}
-Let $f$ be a function and $x=a$ a value in the function's domain. We define the \textbf{derivative of $f$ with respect to $x$ evaluated at $x=a$}, denoted $f'(a)$, by the formula
-\[
-f'(a) = \lim\limits_{h\to 0} \frac{f(a+h)-f(a)}{h},
-\]
-provided this limit exists.
-\end{definition}
-
-}
-
-\frame{
-	\frametitle{Notes and observations}
-	
-	\begin{itemize}
-	\item If a function has a derivative at $x=a$ we say it is \emph{differentiable} there.\pause
-	\item The derivative at a point generalizes the notino of instantaneous velocity\pause 
-	\item What are the units on $f'(a)$?\pause
-	\item When computing $f'(a)$ we are computing a limit of the slopes of lines. Which lines? 
-\end{itemize}
-
-}
-
-\frame{
-\begin{center}
-		\includegraphics[width=6in]{img/1_3_SecToTan.pdf}
-		
-		A sequence of secant lines approaching a tangent line.
-	\end{center}
-}
-
-\frame{
-	\frametitle{Example}
-	
-	Let's compute $g'(2)$ given $g(x)= 3x^2 + x -1$.
-	
-	\vspace*{\fill}
-
-}
-
-\section{Activities 1.3.2--1.3.4}
-
-\frame{
-	\frametitle{Activity 1.3.2}
-
-}
 
 
 
-\frame{
-	\frametitle{For Next Time}
-	
-	\begin{itemize}
-\item Buy the calculus bundle from the campus store 
-\item Edfinity Section 1.1 due today, Section 1.2 due Friday
-\item Do the Section 1.4 Prep assignment by 8am Monday
-\end{itemize}
 
-}
 
 
 \end{document}

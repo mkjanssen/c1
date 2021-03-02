@@ -69,15 +69,10 @@
 \headcommand {\beamer@framepages {32}{32}}
 \headcommand {\slideentry {5}{0}{10}{33/33}{}{0}}
 \headcommand {\beamer@framepages {33}{33}}
-\headcommand {\beamer@sectionpages {19}{33}}
-\headcommand {\beamer@subsectionpages {19}{33}}
-\headcommand {\sectionentry {6}{Bonus}{34}{Bonus}{0}}
-\headcommand {\slideentry {6}{0}{1}{34/34}{}{0}}
+\headcommand {\slideentry {5}{0}{11}{34/34}{}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {6}{0}{2}{35/35}{}{0}}
-\headcommand {\beamer@framepages {35}{35}}
-\headcommand {\beamer@partpages {1}{35}}
-\headcommand {\beamer@subsectionpages {34}{35}}
-\headcommand {\beamer@sectionpages {34}{35}}
-\headcommand {\beamer@documentpages {35}}
+\headcommand {\beamer@partpages {1}{34}}
+\headcommand {\beamer@subsectionpages {19}{34}}
+\headcommand {\beamer@sectionpages {19}{34}}
+\headcommand {\beamer@documentpages {34}}
 \headcommand {\gdef \inserttotalframenumber {24}}

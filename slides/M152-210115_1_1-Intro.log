@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  4 JAN 2021 12:40
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  5 JAN 2021 14:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2139,20 +2139,7 @@ File: img/sam.png Graphic file (type bmp)
 <img/sam.png>
  [4
 
-]
-./M152-210115_1_1-Intro.tex:246: Misplaced alignment tab character &.
-\beamer@doifinframe ...on \par Expectations and Q&
-                                                  A \par The Big Idea of Cal...
-l.246 }
-       
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[5
+] [5
 
 ] [6
 
@@ -2167,7 +2154,7 @@ might try typing `S' now just to see what is salvageable.
 ] [11
 
 ]
-Overfull \hbox (5.97627pt too wide) in paragraph at lines 311--311
+Overfull \hbox (5.97627pt too wide) in paragraph at lines 324--324
 []\TU/lmtt/m/n/10.37 https://calendly.com/mkjanssen  
  []
 
@@ -2221,12 +2208,10 @@ File: img/pa111.png Graphic file (type bmp)
 
 ] [33
 
-] [34
-
 ]
 Missing character: There is no ̃ in font Graphik/OT:script=latn;language=dflt;m
 apping=tex-text;!
- [35
+ [34
 
 ]
 \tf@nav=\write7
@@ -2238,13 +2223,13 @@ apping=tex-text;!
 \tf@snm=\write9
 \openout9 = `M152-210115_1_1-Intro.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 481.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 481.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 494.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 494.
  (./M152-210115_1_1-Intro.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 481.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 481.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 494.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 494.
 Package rerunfilecheck Info: File `M152-210115_1_1-Intro.out' has not changed.
-(rerunfilecheck)             Checksum: 0A359976ED66B46E20C2AE5A1F83BF93;325.
+(rerunfilecheck)             Checksum: DBAEF23A1CD17218C9ADDCCD3D01417C;285.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2252,12 +2237,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 39796 strings out of 479418
- 954018 string characters out of 5884586
+ 39794 strings out of 479418
+ 954031 string characters out of 5884586
  1372785 words of memory out of 5000000
- 56465 multiletter control sequences out of 15000+600000
- 544510 words of font info for 105 fonts, out of 8000000 for 9000
+ 56462 multiletter control sequences out of 15000+600000
+ 544518 words of font info for 106 fonts, out of 8000000 for 9000
  1355 hyphenation exceptions out of 8191
  71i,16n,103p,1870b,872s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on M152-210115_1_1-Intro.pdf (35 pages).
+Output written on M152-210115_1_1-Intro.pdf (34 pages).
