@@ -1,0 +1,199 @@
+\documentclass[10pt,answers,addpoints]{exam}
+\usepackage{geometry}
+\usepackage{amsmath,amsthm,amssymb,amsfonts,parskip,xypic}
+\geometry{letterpaper}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{mathpple}
+
+\usepackage{coordsys}
+\usepackage{pgf,tikz}
+\usetikzlibrary{arrows}
+\newcommand{\boxwidth}{5.25in}
+%\pagestyle{empty}
+%\setlength{\oddsidemargin}{.05in}
+%\setlength{\evensidemargin}{-.50in}
+%\setlength{\textwidth}{7in}
+%\setlength{\topmargin}{-.250in}
+%\setlength{\headheight}{0in}
+%\setlength{\headsep}{.25in}
+%\setlength{\topskip}{0in}
+%\setlength{\textheight}{9.05in}
+%\setlength{\parindent}{0in}
+%\font\bigbf = cmbx10 scaled \magstep1
+%\font\medbf = cmbx10 scaled \magstephalf
+
+\input{153controls.tex}
+
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{polar}
+\pgfplotsset{compat=1.10}
+\pgfplotsset{mypolarplot/.style={%
+  clip=false, % needed for double line (last \addplot command)
+  domain=0:360, % plot full cycle
+  samples=180, % number of samples; can be locally adjusted
+  grid=both, % display major and minor grids
+  major grid style={black}, 
+  minor x tick num=3, % 3 minor x ticks between majors
+  minor y tick num=1, % 1 minor y tick between majors
+  xtick={0,45,...,359},
+  xticklabels={%
+    $0$,
+    $\frac{ \pi}{4}$,
+    $\frac{ \pi}{2}$,
+    $\frac{3\pi}{4}$,
+    $\pi$,
+    $\frac{5\pi}{4}$,
+    $\frac{3\pi}{2}$,
+    $\frac{7\pi}{4}$
+  },
+  yticklabel style={anchor=north}, % move label position
+}}
+
+
+%\shadedsolutions
+
+
+% Include answers?
+\noprintanswers
+%\printanswers
+
+%\bracketedpoints
+
+
+% Where should the points be?
+% Default
+%\nopointsinmargin
+% Left margin
+\pointsinmargin
+\marginpointname{ \points}
+% Right margin
+%\pointsinrightmargin
+
+
+
+
+
+
+% Nice way to TeX sets
+\def\set#1{\left\{ {#1} \right\}}
+\def\setof#1#2{{\left\{#1\,|\,#2\right\}}}
+
+\def\i{{\bold i}}
+
+\def\j{{\bold j}}
+
+\def\k{{\bold k}}
+
+\def\u{{\bold u}}
+
+\def\v{{\bold v}}
+
+\def\w{{\bold w}}
+
+\def\n{{\bold n}}
+
+\def\d{{\partial}}
+
+
+\def\C{{\mathbb C}}
+\def\Z{{\mathbb Z}}
+\def\F{{\mathbb F}}
+\def\bF{{\mathbb F}}
+\def\Q{{\mathbb Q}}
+\def\R{{\mathbb R}}
+\def\P{{\mathbb P}}
+\def\N{{\mathbb N}}
+
+\def\erf{{\text{erf}}}
+
+
+
+
+
+\begin{document}
+
+\runningheader{\bfseries Math ZZZ}{}{\bfseries Quiz \#X (Continued)}
+
+
+
+\header{\bfseries\large Math 152}%\\Michael Janssen}
+{\bfseries\large Calculation Exam D-05}
+{}%{\includegraphics[height=.15in]{figures/CClicense.eps}}
+
+%\makebox[\textwidth]{\hrulefill}
+Name: \makebox[4.18in]{\hrulefill} \quad Score: \makebox[0.75in]{\hrulefill} % Section:\enspace\hrulefill}
+%\makebox[\textwidth]{Name:\enspace\hrulefill}
+
+%\vspace{0.3in}
+%\makebox[\textwidth]{Section:\enspace\hrulefill}
+
+\vspace{0.2in}
+
+\textbf{Instructions: } There are 10 functions on this exam. Compute their derivatives using our derivative rules. You must completely correctly calculate at least 8 of the 10 derivatives in order to pass. You may not use a calculator, and you do not need to simplify! 
+
+
+
+
+\begin{questions}
+
+\question $y = \sin(x)$
+
+\vfill
+
+\question $f(z) = (z^2+z^3)^4$
+
+\vfill
+
+\question $g(y)= \ln(\sec(y))$
+
+\vfill
+
+
+\question $h(x) = x^2\cos(x)$
+
+\vfill
+
+\question $k(z) = \dfrac{z^4 -1}{z^4+1}$
+
+\vfill
+
+\newpage
+
+
+\question $y = \dfrac{x^2 - x + 2}{\sqrt{x}}$
+
+\vfill
+
+
+\question $p(t) = \sin^2(t)$
+
+\vfill
+
+\question $s(y) = \cot(3y^2+5)$
+
+\vfill
+
+\question $r(z) = \dfrac{e^{1/z}}{5}$
+
+\vfill
+
+\question $y(x) = \ln(\ln(\ln x))$
+
+\vfill
+
+\thispagestyle{empty}
+
+\end{questions}
+
+
+
+
+
+\end{document}
